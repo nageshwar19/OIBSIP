@@ -46,7 +46,7 @@ nav ul li a:hover{
 
 /* banner */
 #banner{
-    background: url("../images/banner.jpg");
+    background: url("images/banner.jpg");
 }
 .banner-content{
     display: flex;
@@ -130,7 +130,7 @@ nav ul li a:hover{
 .car-bg-img{
     width: 80%;
     height: 700px;
-    background: url("../images/about.png");
+    background: url("images/about.png");
     background-size: 100% 100%;
     margin: 0 auto;
     text-align: center;
